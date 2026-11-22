@@ -1,0 +1,13 @@
+{
+  "name": "loja-n3",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.21.2",
+    "mysql2": "3.14.3",
+    "redis": "4.7.1"
+  }
+}
